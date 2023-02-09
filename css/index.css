@@ -1,5 +1,17 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  /* background-color: salmon; */
   text-align: center;
+  background-image: url("../img/home.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1{
+  font-size: max(50%,5vw);
+}
+
+h3{
+  font-size: max(50%,2vw);
 }
