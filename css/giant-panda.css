@@ -34,9 +34,9 @@
 }
 
 h1{
-    background-color: #4d3227;
+    background-color: white;
     font-size: 50px;
-    color: #cd7700;
+    color: black;
 }
 body {
     background-image: url("../img/bamboo.png");
@@ -48,10 +48,10 @@ body {
 
 body p{
     font-family: Courier New;
-    background-color: #4d3227;
+    background-color: white;
     width: 60%;
     margin: auto;
-    color: #cd7700;
+    color: black;
 }
 
 img{
